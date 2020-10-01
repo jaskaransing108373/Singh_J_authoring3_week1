@@ -1,5 +1,5 @@
-module.exports = {
-    name: "Tjas",
+export default {
+    name: "jas",
     role: "student",
     nickname: "jass"
 }
